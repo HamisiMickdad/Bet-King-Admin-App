@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851164600115",
+    "firebase_url": "https://bet-king-admin.firebaseio.com",
+    "project_id": "bet-king-admin",
+    "storage_bucket": "bet-king-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851164600115:android:f7471203e9791276",
+        "android_client_info": {
+          "package_name": "com.hamsoft.betkingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851164600115-u7hgo58c9gdldoacbbofpdr9emc4v61m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVFxFCsgnoiZTxVI1cSoPKsImRThRx60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
